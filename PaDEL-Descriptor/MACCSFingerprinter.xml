@@ -1,0 +1,86 @@
+<Root>
+    <Group name="2D">
+        <Descriptor name="AcidicGroupCount" value="false"/>
+        <Descriptor name="ALOGP" value="false"/>
+        <Descriptor name="AminoAcidCount" value="false"/>
+        <Descriptor name="APol" value="false"/>
+        <Descriptor name="AromaticAtomsCount" value="false"/>
+        <Descriptor name="AromaticBondsCount" value="false"/>
+        <Descriptor name="AtomCount" value="false"/>
+        <Descriptor name="Autocorrelation" value="false"/>
+        <Descriptor name="BaryszMatrix" value="false"/>
+        <Descriptor name="BasicGroupCount" value="false"/>
+        <Descriptor name="BCUT" value="false"/>
+        <Descriptor name="BondCount" value="false"/>
+        <Descriptor name="BPol" value="false"/>
+        <Descriptor name="BurdenModifiedEigenvalues" value="false"/>
+        <Descriptor name="CarbonTypes" value="false"/>
+        <Descriptor name="ChiChain" value="false"/>
+        <Descriptor name="ChiCluster" value="false"/>
+        <Descriptor name="ChiPathCluster" value="false"/>
+        <Descriptor name="ChiPath" value="false"/>
+        <Descriptor name="Constitutional" value="false"/>
+        <Descriptor name="Crippen" value="false"/>
+        <Descriptor name="DetourMatrix" value="false"/>
+        <Descriptor name="EccentricConnectivityIndex" value="false"/>
+        <Descriptor name="EStateAtomType" value="false"/>
+        <Descriptor name="ExtendedTopochemicalAtom" value="false"/>
+        <Descriptor name="FMF" value="false"/>
+        <Descriptor name="FragmentComplexity" value="false"/>
+        <Descriptor name="HBondAcceptorCount" value="false"/>
+        <Descriptor name="HBondDonorCount" value="false"/>
+        <Descriptor name="HybridizationRatio" value="false"/>
+        <Descriptor name="InformationContent" value="false"/>
+        <Descriptor name="IPMolecularLearning" value="false"/>
+        <Descriptor name="KappaShapeIndices" value="false"/>
+        <Descriptor name="KierHallSmarts" value="false"/>
+        <Descriptor name="LargestChain" value="false"/>
+        <Descriptor name="LargestPiSystem" value="false"/>
+        <Descriptor name="LongestAliphaticChain" value="false"/>
+        <Descriptor name="MannholdLogP" value="false"/>
+        <Descriptor name="McGowanVolume" value="false"/>
+        <Descriptor name="MDE" value="false"/>
+        <Descriptor name="MLFER" value="false"/>
+        <Descriptor name="PathCount" value="false"/>
+        <Descriptor name="PetitjeanNumber" value="false"/>
+        <Descriptor name="RingCount" value="false"/>
+        <Descriptor name="RotatableBondsCount" value="false"/>
+        <Descriptor name="RuleOfFive" value="false"/>
+        <Descriptor name="Topological" value="false"/>
+        <Descriptor name="TopologicalCharge" value="false"/>
+        <Descriptor name="TopologicalDistanceMatrix" value="false"/>
+        <Descriptor name="TPSA" value="false"/>
+        <Descriptor name="VABC" value="false"/>
+        <Descriptor name="VAdjMa" value="false"/>
+        <Descriptor name="WalkCount" value="false"/>
+        <Descriptor name="Weight" value="false"/>
+        <Descriptor name="WeightedPath" value="false"/>
+        <Descriptor name="WienerNumbers" value="false"/>
+        <Descriptor name="XLogP" value="false"/>
+        <Descriptor name="ZagrebIndex" value="false"/>
+    </Group>
+    <Group name="3D">
+        <Descriptor name="Autocorrelation3D" value="false"/>
+        <Descriptor name="CPSA" value="false"/>
+        <Descriptor name="GravitationalIndex" value="false"/>
+        <Descriptor name="LengthOverBreadth" value="false"/>
+        <Descriptor name="MomentOfInertia" value="false"/>
+        <Descriptor name="PetitjeanShapeIndex" value="false"/>
+        <Descriptor name="RDF" value="false"/>
+        <Descriptor name="WHIM" value="false"/>
+    </Group>
+    <Group name="Fingerprint">
+        <Descriptor name="Fingerprinter" value="false"/>
+        <Descriptor name="ExtendedFingerprinter" value="false"/>
+        <Descriptor name="EStateFingerprinter" value="false"/>
+        <Descriptor name="GraphOnlyFingerprinter" value="false"/>
+        <Descriptor name="MACCSFingerprinter" value="true"/>
+        <Descriptor name="PubchemFingerprinter" value="false"/>
+        <Descriptor name="SubstructureFingerprinter" value="false"/>
+        <Descriptor name="SubstructureFingerprintCount" value="false"/>
+        <Descriptor name="KlekotaRothFingerprinter" value="false"/>
+        <Descriptor name="KlekotaRothFingerprintCount" value="false"/>
+        <Descriptor name="AtomPairs2DFingerprinter" value="false"/>
+        <Descriptor name="AtomPairs2DFingerprintCount" value="false"/>
+    </Group>
+</Root>

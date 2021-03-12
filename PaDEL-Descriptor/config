@@ -1,0 +1,20 @@
+#Fri Jul 08 10:37:03 ICT 2016
+MaxThreads=-1
+DescriptorFile=/home/server1/Desktop/Nut/HTS/SMILES/ER_Alpha-SubStructureCount.csv
+Compute3D=false
+TautomerFile=
+ComputeFingerprints=true
+Directory=/home/server1/Desktop/Nut/HTS/SMILES
+MaxCpdPerFile=0
+StandardizeTautomers=true
+StandardizeNitro=true
+RetainOrder=true
+RemoveSalt=true
+MaxJobsWaiting=-1
+MaxRunTime=-1
+UseFilenameAsMolName=false
+Log=true
+DetectAromaticity=true
+Compute2D=false
+Retain3D=false
+Convert3D=No
