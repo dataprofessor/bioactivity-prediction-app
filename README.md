@@ -23,7 +23,7 @@ conda activate bioactivity
 Download requirements.txt file
 
 ```
-wget https://raw.githubusercontent.com/dataprofessor/moldesc-app/main/requirements.txt
+wget https://raw.githubusercontent.com/dataprofessor/bioactivity-prediction-app/main/requirements.txt
 
 ```
 
